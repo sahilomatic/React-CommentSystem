@@ -1,0 +1,15 @@
+.comment {
+  margin: 2px;
+  border-style: solid;
+  border-color: rgb(226, 182, 226);
+  min-width: 40px;
+  border-radius: 5px;
+}
+
+* .input {
+  margin: 2px;
+}
+
+.child {
+  margin-left: 15px;
+}

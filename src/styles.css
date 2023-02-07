@@ -1,0 +1,16 @@
+.addComment {
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+  margin: 2rem;
+  padding: 2rem;
+}
+
+.addComment * button {
+  background-color: rgb(114, 114, 158);
+  color: white;
+}
+
+.addComment * input {
+  margin: 4px;
+}
